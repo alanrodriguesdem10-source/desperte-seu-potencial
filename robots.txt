@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://desperte-seu-potencial.vercel.app/</loc></url>
+  <url><loc>https://desperte-seu-potencial.vercel.app/termos.html</loc></url>
+  <url><loc>https://desperte-seu-potencial.vercel.app/politica.html</loc></url>
+  <url><loc>https://desperte-seu-potencial.vercel.app/afiliados.html</loc></url>
+  <url><loc>https://desperte-seu-potencial.vercel.app/thank-you.html</loc></url>
+</urlset>
